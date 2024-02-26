@@ -6,8 +6,10 @@ I am a recent graduate of the University of Washington Bothell and General Assem
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL">
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=matthewkolden&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&include_all_commits=true&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewkolden&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php,html">
+  <img src ="https://github-readme-stats.vercel.app/api?username=matthewkolden&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">  
+</p>
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewkolden&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
 </p>
 
 ---
