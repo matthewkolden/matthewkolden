@@ -4,14 +4,6 @@
 
 I am a recent graduate of the University of Washington Bothell and General Assembly's Software Engineering Immersive Bootcamp, just looking to make cool projects.
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL">
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=matthewkolden&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">  
-</p>
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewkolden&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
-</p>
-
 ---
 
 <h2> Some technologies I use</h2>
